@@ -1,0 +1,42 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+img{
+  height: 200px;
+  text-align: center;
+  list-style: none;
+}
+h4{
+  text-align: center;
+  color:red;
+}
+
+a{
+  text-align:center;
+  color:red;
+}
+
+h3{
+ text-align:  center;
+ color:red;
+
+}
+
+button{
+  background-color: black;
+  color:red;
+  border-radius: 20%;
+}
+
+li{
+  list-style: none;
+}
+
+input button{
+  background-color: black;
+  color:red;
+  border-radius: 20%;
+
+}
